@@ -1,0 +1,23 @@
+{
+  "name": "15y-v2",
+  "data": [
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2021,
+          757.102956576191
+        ]
+      ]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [
+          2021,
+          40.6860729881232
+        ]
+      ]
+    }
+  ]
+}
